@@ -1,0 +1,3 @@
+include ':app:chartlib'
+include ':app'
+rootProject.name = "ChartKit"
